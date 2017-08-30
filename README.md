@@ -6,7 +6,7 @@
 ```
 > The war file to be deployed can be found in <ProjectDir>/build/libs folder
 
-##Instructions to build and deploy using IntelliJ
+## Instructions to build and deploy using IntelliJ
 * Go to Run → Edit Configurations in the top menu. 
 
 * You’ll see the default run configurations on the left. Add a new configuration from the green plus in the top left.
