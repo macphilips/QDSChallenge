@@ -3,7 +3,18 @@
 <head>
     <title>Spring MVC Form Handling</title>
 </head>
-
+<style>
+    input[type=submit] {
+        width: 100%;
+        background-color: #0f83af;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+</style>
 <body>
 <h2>Request Items</h2>
 <form:form method="POST" action="/result">
