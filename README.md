@@ -1,10 +1,10 @@
 # QDSChallenge
-> Run gradle build 
 
+## Build and Deploy using Jetty
 ```
-> gradle build
+> gradle jettyRun
 ```
-> The war file to be deployed can be found in <ProjectDir>/build/libs folder
+> The war file to be deployed can be found in build/libs folder
 
 ## Instructions to build and deploy using IntelliJ
 * Go to Run → Edit Configurations in the top menu. 
