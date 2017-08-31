@@ -11,8 +11,8 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags" %>
 
-<head>
-    <title>Title</title>
+<head><title>QDS: Exercise</title>
+
     <spring:url value="/resources/core/css/style.css" var="coreCss"/>
     <spring:url value="/resources/core/css/bootstrap.min.css" var="bootstrapCss"/>
     <spring:url value="/resources/core/js/script.js" var="coreJs"/>
