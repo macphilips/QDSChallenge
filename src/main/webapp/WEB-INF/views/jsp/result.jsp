@@ -26,7 +26,7 @@
 </head>
 <body>
 
-<h1>Authors: Morolari Titilope</h1>
+<h1>Author: Morolari Titilope</h1>
 <h2 id="date"></h2>
 <div id="results">
     <script>

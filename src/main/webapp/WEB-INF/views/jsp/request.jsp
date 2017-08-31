@@ -16,7 +16,7 @@
     <script src="${coreJs}"></script>
 </head>
 <body>
-<h1>Authors: Morolari Titilope</h1>
+<h1>Author: Morolari Titilope</h1>
 <h2 id="date"></h2>
 <h2>Request Items</h2>
 <div>
